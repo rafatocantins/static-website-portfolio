@@ -1,0 +1,18 @@
+{
+  "name": "next-wordpress-commerce",
+  "version": "1.0.0",
+  "description": "simple next js project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Rafael Torres",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
